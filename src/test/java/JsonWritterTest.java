@@ -1,3 +1,5 @@
+import org.example.JsonWritter;
+
 public class JsonWritterTest {
-  Jason
+  JsonWritter jsonWritter = new JsonWritter();
 }
